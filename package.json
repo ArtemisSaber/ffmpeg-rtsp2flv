@@ -1,0 +1,12 @@
+{
+  "name": "ffmpeg-server",
+  "version": "1.0.0",
+  "description": "convert rtsp stream to rtmp and flv stream",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "fluent-ffmpeg": "^2.1.2",
+    "node-media-server": "^2.2.5"
+  }
+}
