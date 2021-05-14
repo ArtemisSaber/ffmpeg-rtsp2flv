@@ -14,3 +14,4 @@ Use pm2 to run those two scripts
 ## Configuration
 To adjust ffmpeg configs edit `ffmpeg.js`  
 To specify input/outputs edit `config.js` with corresponding inputs and outputs section
+To adjust node media server configuration edit `config.js` with corresponding mediaServer configs
